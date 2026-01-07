@@ -8,7 +8,7 @@
 
 > 🚀 **A comprehensive financial analysis toolkit** for Nucor Corporation (NYSE: NUE) using Python to perform statistical modeling, risk assessment, and performance evaluation against the market and industry peers!
 
-**📈 Pro Tip:** Check out our [attached presentation](50%20PORTFOLIO%20TEAM%207.pdf) for a complete overview! 🎯
+**📈 Pro Tip:** Run the Jupyter notebook to see all the interactive analysis and visualizations! 🎯
 
 ---
 
